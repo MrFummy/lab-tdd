@@ -1,5 +1,5 @@
 const {test, expect} = require ("@jest/globals");
-const resta = require("../src/division");
+const division = require("../src/division");
 
 
 test("La division de 20 entre 5 devuelve 4", () => {

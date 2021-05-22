@@ -1,5 +1,5 @@
 const {test, expect} = require ("@jest/globals");
-const resta = require("../src/multiplicacion");
+const multiplicacion = require("../src/multiplicacion");
 
 
 test("El producto de 7 y 3 devuelve 21", () => {
