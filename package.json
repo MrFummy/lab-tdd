@@ -1,0 +1,26 @@
+{
+  "name": "lab-tdd",
+  "version": "1.0.0",
+  "description": "Archivo Readme del laboratorio 2 sobre TDD de la asignatura de Ingenieria del software avanzada",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrFummy/lab-tdd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrFummy/lab-tdd/issues"
+  },
+  "homepage": "https://github.com/MrFummy/lab-tdd#readme",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
